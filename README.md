@@ -5,15 +5,19 @@ For Mist MSP providers to easily track licences that are going to expire in next
 Python
 
 # How to use
+
 ## Info Needed: 
-Admin API token, Mist MSP IDß
+Admin API token, Mist MSP ID
+
 ## Files:
-### credential.py
+- credential.py
 Where admin API token and Mist MSP ID needs to be put in
-### getLicense.py
+- getLicense.py
 Run API calls, get responses processed and results printed out
-### requirement.txt
+- requirement.txt
 pip modules that needs to be installed for smooth run
+
+Run getlicense.py for final results
 
 # Results
 ## Output
